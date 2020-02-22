@@ -3,14 +3,10 @@
 ## Lab 1
 
 ### App Description
-Flashcards is an app that shows you a flashcard and then displays the answer when it is tapped.
+Flashcards is an app that shows you a flashcard and provides three choices. It shows the answer when the right choice is selected and allows you to switch between the question and the answer.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="https://i.imgur.com/COgxzg0.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://i.imgur.com/R8lY7ZO.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
@@ -19,6 +15,6 @@ Flashcards is an app that shows you a flashcard and then displays the answer whe
 - [x] Build in logic to show the answer side when the card is tapped
 - [x] Push code to GitHub
 ## Optional
-- [ ] Toggle the flashcard between the question side and the answer side
-- [ ] Style the question and answer side of the card to better distinguish between the two sides
-- [ ] Add selectable multiple choice answers beneath the card
+- [x] Toggle the flashcard between the question side and the answer side
+- [x] Style the question and answer side of the card to better distinguish between the two sides
+- [x] Add selectable multiple choice answers beneath the card
