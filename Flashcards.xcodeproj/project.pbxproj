@@ -14,6 +14,7 @@
 		BF87FEB423F8F65D006FA204 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF87FEB323F8F65D006FA204 /* Assets.xcassets */; };
 		BF87FEB723F8F65D006FA204 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF87FEB523F8F65D006FA204 /* LaunchScreen.storyboard */; };
 		BF87FEBF23F8FF8F006FA204 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = BF87FEBE23F8FF8F006FA204 /* README.md */; };
+		BF99264A240AE3BD00431899 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF992649240AE3BD00431899 /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BF87FEB623F8F65D006FA204 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BF87FEB823F8F65D006FA204 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BF87FEBE23F8FF8F006FA204 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		BF992649240AE3BD00431899 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				BF87FEAC23F8F65B006FA204 /* SceneDelegate.swift */,
 				BF87FEAE23F8F65B006FA204 /* ViewController.swift */,
 				BF87FEB023F8F65B006FA204 /* Main.storyboard */,
+				BF992649240AE3BD00431899 /* CreationViewController.swift */,
 				BF87FEB323F8F65D006FA204 /* Assets.xcassets */,
 				BF87FEB523F8F65D006FA204 /* LaunchScreen.storyboard */,
 				BF87FEB823F8F65D006FA204 /* Info.plist */,
@@ -145,6 +148,7 @@
 				BF87FEAF23F8F65B006FA204 /* ViewController.swift in Sources */,
 				BF87FEAB23F8F65B006FA204 /* AppDelegate.swift in Sources */,
 				BF87FEAD23F8F65B006FA204 /* SceneDelegate.swift in Sources */,
+				BF99264A240AE3BD00431899 /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
