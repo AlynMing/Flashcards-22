@@ -1,8 +1,9 @@
-## Flashcards
 ## Lab 2
 
 ### App Description
-Flashcards is an app that allows you to create a flashcard with a question and an answer.
+Flashcards lets you create a flashcard with a question and an answer.
+### App Walk-though
+<img src="https://i.imgur.com/tD4e0hf.gif" width=200><br>
 
 ## Required
 - [x] User can open the creation screen
