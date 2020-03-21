@@ -1,3 +1,22 @@
+## Lab 3
+
+### App Description
+Flashcards lets you create multiple flashcards that supports multiple choice answers, deletion, and editing. 
+
+### App Walk-though
+<img src="https://i.imgur.com/5KHSe4N.gif" width=200><br>
+Deletion GIF
+<img src="https://i.imgur.com/V7rbTRe.gif" width=200><br>
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [x] User can delete a flashcard
+- [x] User can edit existing flashcard
+- [x] User can store multiple choice questions
+
 ## Lab 2
 
 ### App Description
