@@ -15,7 +15,9 @@ Flashcards lets you create flashcards with a question and three answer choices!
 ## Optional
 - [ ] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
 - [ ] User should see all views properly layout when using the app on a phone of different sizes
-- [ ] Correct answer in multiple choice should be random## Lab 3
+- [ ] Correct answer in multiple choice should be random
+
+## Lab 3
 
 ### App Description
 Flashcards lets you create multiple flashcards that supports multiple choice answers, deletion, and editing. 
